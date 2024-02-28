@@ -9,6 +9,12 @@
 <p align="center">
     a <a href="https://dev.to/">dev.to</a> tool for the road🧳
 </p>
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x17cB35B60257FC7F1e342C97BE9aFb04274Ee4B8'
+quorum: 1
 
 <div align="center">
   <a alt="GitHub Actions" href="https://github.com/softprops/devtogo/actions">
